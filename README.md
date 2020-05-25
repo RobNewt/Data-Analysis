@@ -1,5 +1,5 @@
 # Data-Analysis
 
-I'll upload my work here as I work through learning exploratory data analysis techniques and classification.
+This is where I'll be storing projects as I work on them. 
 
-Some tools I'll be using include pandas, numpy, matplotlib, scikit-learn, tensorflow, and jupyter notebook. 
+I use numpy, matplotlib, seaborn, scikit-learn, tensorflow, and jupyter notebook. 
