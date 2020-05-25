@@ -1,5 +1,4 @@
 # Data-Analysis
 
-This is where I'll be storing projects as I work on them. 
-
-I use numpy, matplotlib, seaborn, scikit-learn, tensorflow, and jupyter notebook. 
+This is a repository of my work as I explore data and practice coding.
+I currently use numpy, matplotlib, seaborn, scikit-learn, tensorflow, and jupyter notebook, but am always looking for new tools!
